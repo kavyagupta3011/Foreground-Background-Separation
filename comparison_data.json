@@ -1,0 +1,17 @@
+{
+    "RPCA (Hard)": {
+        "f1": 0.0,
+        "iou": 0.0,
+        "time": 0.0
+    },
+    "Mean Filter (Easy)": {
+        "f1": 0.0,
+        "iou": 0.0,
+        "time": 0.0
+    },
+    "Median Filter (Easy)": {
+        "f1": 0.0,
+        "iou": 0.0,
+        "time": 0.0
+    }
+}
