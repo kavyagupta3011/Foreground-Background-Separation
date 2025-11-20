@@ -113,18 +113,3 @@ This is **much slower** than simple filtering but yields **significantly better 
 
 ---
 
-# Results
-
-### 🔹 Easy Problem Output
-
-<video src="https://github.com/kavyagupta3011/Foreground-Background-Separation/raw/main/EasyProblem/evaluation_results/MeanFilter/highway/highway_eval_map.mp4" controls muted loop width="500">
-    Your browser does not support the video tag.
-</video>
-
-### 🔹 Hard Problem (RPCA) Output
-
-<video src="https://github.com/kavyagupta3011/Foreground-Background-Separation/raw/main/HardProblem/evaluation_results/RPCA/highway/highway_eval_map.mp4" controls muted loop width="500">
-    Your browser does not support the video tag.
-</video>
-
----
